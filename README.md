@@ -34,11 +34,11 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flex
+- Flexbox
 
 ### What I learned
 
-During this project I learned how to center a div using CSS flex instead of an absolute code. I also learned how to make the text color change when a users mouse hovers over the text. This project was a good challenge on how to apply different styles to each piece of text and to get the spacing between as close to the design as possible. 
+During this project I learned how to center a div using CSS flexbox instead of an absolute code. I also learned how to make the text color change when a users mouse hovers over the text. This project was a good challenge on how to apply different styles to each piece of text and to get the spacing between as close to the design as possible. 
 
 ### Continued development
 
